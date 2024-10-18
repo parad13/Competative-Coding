@@ -1,0 +1,5 @@
+interview tasks/
+*.feature
+*.prob
+MISC/
+*.pyc
