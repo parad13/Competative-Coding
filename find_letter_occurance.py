@@ -1,7 +1,7 @@
 # string = input("Enter a string to find its letter occurance: ") # Drawback, not reading input from same line, reading it from bottom line
 
 # For CPH testing
-string = input("")
+string = input("Enter a string: ")
 
 
 letter_counts = {}
